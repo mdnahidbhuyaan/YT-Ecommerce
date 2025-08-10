@@ -17,6 +17,12 @@ const LoginPage = () => {
               className="max-w-[150px]"
             />
           </div>
+          <div className="text-center">
+            <h1 className="text-3xl font-bold">
+                Login into acount 
+            </h1>
+            <p>Login into your account by filling out the from below</p>
+          </div>
         </CardContent>
       </Card>
     </div>
